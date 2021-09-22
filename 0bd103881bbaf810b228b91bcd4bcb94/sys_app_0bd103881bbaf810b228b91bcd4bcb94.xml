@@ -21,16 +21,16 @@
         <scoped_administration>false</scoped_administration>
         <short_description>CICD Pipeline POC V1</short_description>
         <source>x_jws_cicd_pipelin</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000453136</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>ksamarawee</sys_created_by>
         <sys_created_on>2021-09-20 06:31:35</sys_created_on>
         <sys_id>0bd103881bbaf810b228b91bcd4bcb94</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>ksamarawee</sys_updated_by>
-        <sys_updated_on>2021-09-20 06:31:35</sys_updated_on>
+        <sys_updated_on>2021-09-21 20:01:04</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
